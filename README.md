@@ -29,9 +29,9 @@ First, install the below Libraries
 !pip install flask_ngrok
 ```
 
-### Running the function
+### Making Client Requests
 
-There will be link generated at the end, "----.ngrok" use that link along with the link name to make client request
+There will be link generated at the end, "----.ngrok" use that link along with the function name to make client request
 
 ```sh
 "https/-----.ngrok/getrecommendation" 
